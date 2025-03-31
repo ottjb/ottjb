@@ -3,10 +3,10 @@
 ###
 
 <div align="center">
-  <img src="![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ottjb&show_icons=true&theme=radical)
+  <img src="(https://github-readme-stats.vercel.app/api?username=ottjb&show_icons=true&theme=radical)
 " height="180" alt="streak graph"  />
 
-  <img src="![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ottjb&layout=compact&theme=radical)
+  <img src="(https://github-readme-stats.vercel.app/api/top-langs/?username=ottjb&layout=compact&theme=radical)
 " height="180" alt="languages graph"  />
 </div>
 
