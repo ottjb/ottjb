@@ -23,7 +23,6 @@ MSc Computer and Information Sciences student with a passion for low-level progr
 ## Goals
 
 - Master low-level systems programming as a foundation for quantum computing
-- Complete and publish research on feature-enhanced transformers for spam classification
 - Deepen understanding of computer architecture through practical emulator development
 - Explore the intersection of evolutionary computation and deep learning
 
