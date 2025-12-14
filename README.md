@@ -14,7 +14,7 @@ MSc Computer and Information Sciences student with a passion for low-level progr
 
 ## Current Projects
 
-🎄 **[Advent of Code 2024](https://github.com/ottjb/Advent-of-Code-2025)** – Solving daily programming challenges
+🎄 **[Advent of Code 2025](https://github.com/ottjb/Advent-of-Code-2025)** – Solving daily programming challenges
 
 🦀 **[Rust-Chip8](https://github.com/ottjb/rust-chip8)** – Building an emulator in Rust to understand low-level programming and computer architecture
 
