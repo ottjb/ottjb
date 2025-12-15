@@ -15,9 +15,6 @@ MSc Computer and Information Sciences student with a passion for low-level progr
 ## Current Projects
 
 🎄 **[Advent of Code 2025](https://github.com/ottjb/Advent-of-Code-2025)** – Solving daily programming challenges
-
-🦀 **[Rust-Chip8](https://github.com/ottjb/rust-chip8)** – Building an emulator in Rust to understand low-level programming and computer architecture
-
 🧬 **[NeuroEvolve](https://github.com/ottjb/neuroevolve)** – Terminal-based simulation combining genetic algorithms with neural networks using Python's Textual library
 
 ## Goals
@@ -29,6 +26,7 @@ MSc Computer and Information Sciences student with a passion for low-level progr
 ## Past Work
 
 **[Cross-Dataset-Generalization-Spam-Detection](https://github.com/ottjb/Cross-Dataset-Generalization-Spam-Detection)** - Developed an improved transformer model for email spam detection with enhanced feature engineering.
+**[Rust-Chip8](https://github.com/ottjb/rust-chip8)** – Built an emulator in Rust to understand low-level programming and computer architecture
 
 ## Connect
 
