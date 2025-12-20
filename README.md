@@ -14,9 +14,9 @@ MSc Computer and Information Sciences student with a passion for low-level progr
 
 ## Current Projects
 
-🎄 **[Advent of Code 2025](https://github.com/ottjb/Advent-of-Code-2025)** – Solving daily programming challenges
+**[Advent of Code 2025](https://github.com/ottjb/Advent-of-Code-2025)** – Solving daily programming challenges
 
-🧬 **[NeuroEvolve](https://github.com/ottjb/neuroevolve)** – Terminal-based simulation combining genetic algorithms with neural networks using Python's Textual library
+**[Quantum-Circuit](https://github.com/ottjb/quantum-circuit)** – Building a quantum circuit simulator in Rust with qubits, quantum gates, and measurement capabilities to understand quantum computing fundamentals
 
 ## Goals
 
